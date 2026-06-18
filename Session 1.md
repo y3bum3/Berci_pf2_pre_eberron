@@ -1,0 +1,22 @@
+# Intro
+A csapatot egyenként kereste meg egy Aaron d'Cannith nevű férfi, aki segítséget kért tőlünk egy elveszett kincs felkutatásában. Elmondása szerint ez a kincs kulcsfontosságú lehet családja egykori hírnevének és befolyásának helyreállításában.
+
+A d'Cannith-házat súlyos veszteségek érték a Last War során, és a háború után a warforgedok gyártásának jogát is megvonták minden féltől. A család egykori központja Cyre területén működött, amely a háború eseményei miatt szintén pusztulásnak indult.
+
+Aaron megbízását elfogadva hajóra szálltunk Khorvaire-ből, és Zendrik kontinense felé vettük az irányt. Az utazás során rövid időre kikötöttünk a kontinens egyetlen jelentősebb működő városában (Storm wreck), majd Aaron utasítására átszálltunk egy másik hajóra. Ez a hajó megkerülte a kontinenst, és végül egy távolabbi, kevésbé lakott partszakaszon tett ki minket, egy sűrű dzsungel közelében.
+
+A kapitány közölte velünk, hogy csak egy napig marad a környéken, majd egy hónap múlva tér vissza ugyanarra a helyre, ahol felvesz minket. Addig magunkra leszünk utalva.
+
+Partra szállás után elindultunk a dzsungelbe. Egy kisebb folyót követve haladtunk befelé, amely végül az óceánba torkollik. Az út végén egy elhagyatott romépülethez érkeztünk a folyó partján. Úgy tűnt, hogy ez lehet expedíciónk első fontos nyomvonala.
+
+Egy domb oldalába vájt kő épület elött állunk, ez teljesen be van nőve indákkal és bizonyára régóta elhagyatott.
+
+# Cselekmény
+Bementünk a kőépületbe...
+Aaron édesapja jegyzetei alapján itt találták meg az első creation forge-ot.
+## Quest 1
+Felmérni az első creation forge helyét, amit Aaronék innen elvittek.
+Van itt egy labirintus, amit Aaron apja sose talált meg, s az elvezet egy giant(nép) laboratóriumba.
+
+
+

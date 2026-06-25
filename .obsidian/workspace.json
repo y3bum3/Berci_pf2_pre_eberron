@@ -11,10 +11,14 @@
             "id": "f0c6a7c299c3e06b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session 1 - 2026-06-18.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 1 - 2026-06-18"
             }
           }
         ]
@@ -70,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ec445bd11bb05ed4",
@@ -183,9 +185,9 @@
   },
   "active": "f0c6a7c299c3e06b",
   "lastOpenFiles": [
-    "Charachter traits.md",
-    "Charachters.md",
     "Session 1 - 2026-06-18.md",
+    "Charachters.md",
+    "Charachter traits.md",
     "2026-06-18.md"
   ]
 }
